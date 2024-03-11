@@ -2,6 +2,8 @@
 
 This repository contains learning materials for Algebra.
 
+Algebra is one of the Mathematics branches.
+
 ## Branches
 
 1. Pre Algebra

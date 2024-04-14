@@ -13,3 +13,5 @@ Algebra is one of the Mathematics branches.
 5. Linear Algebra
 6. Universal Algebra
 7. Commutative Algebra
+8. Boolean Algebra
+9. Differential Algebra

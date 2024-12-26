@@ -9,6 +9,7 @@ Summary of the content of the files in this folder.
 - Term
 - Coefficient
 - Constant
+- Variable
 - Algebraic expression
 - Equation
 - Perfect square

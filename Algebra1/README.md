@@ -15,6 +15,7 @@ Summary of the content of the files in this folder.
 - Perfect square
 - Square root index
 - Monomial
+- Binomial
 - Polynomial
 
 **Formulas**
@@ -67,14 +68,25 @@ Summary of the content of the files in this folder.
 - Product and power rules for exponents
 - Integer exponents and the quotient rule
 - Scientific notation
-- Adding and subtracting polynomials
-- Multiplying polynomials
-- FOIL
-- Special products
-- Dividing polynomials
-  - Divide polynomial by a mononomial
-  - Dividing polynomial by polynomial
-  - Dividing polynomials with missing terms
+- Polynomials
+  - Examples
+    - Polynomials
+    - Non-polynomials
+  - Rules
+    - Standard form
+  - Adding and subtracting polynomials
+    - Solving polynomials
+  - Multiplying polynomials
+    - FOIL
+    - Special products
+      - Square of a binomial
+      - Difference of squares
+      - Cube of a binomial
+    - Solving polynomials
+  - Dividing polynomials
+    - Divide polynomial by a mononomial
+    - Dividing polynomial by polynomial
+    - Dividing polynomials with missing terms
 - GCF (Greatest Common Factor)
   - GCF with variables
   - Factoring out the GCF
